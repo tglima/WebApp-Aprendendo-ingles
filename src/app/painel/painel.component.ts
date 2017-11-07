@@ -21,7 +21,6 @@ export class PainelComponent implements OnInit {
 
   constructor() { 
     this.atualizaRodada()
-    console.log(this.rodadaFrase) 
   }
 
   ngOnInit() {
@@ -40,7 +39,6 @@ public verificarResposta(): void{
 
     //Calcular o progresso atual do jogo
     this.progresso = this.progresso + (100 / this.frases.length)
-    console.log(this.progresso)
 
     if (this.rodada === 4) {
       // alert('Você concluiu as traduções com sucesso!')
