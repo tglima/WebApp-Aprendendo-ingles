@@ -17,4 +17,18 @@ Para rodar essa aplicação localmente serão necessários:
 - npm
 - angular-cli
 
-Novas depêndencias podem ser adicionadas durante o desenvolvimento do projeto.
+Para realizar o deploy local, basta instalar via npm o pacote:
+- http-server
+
+Ou então via XAMPP, LAMP...
+
+## Versão 1.0
+
+Este app não deve ganhar novas atualizações, visto que seu objetivo foi concluído.
+
+## Screenshots da aplicação
+
+![Image01](other_files/screenshots/01.png)
+![Image02](other_files/screenshots/02.png)
+![Image03](other_files/screenshots/03.png)
+![Image04](other_files/screenshots/04.png)
